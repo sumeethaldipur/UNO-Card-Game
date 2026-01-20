@@ -7,5 +7,5 @@
 <p align="center">
   <img alt="Connect4" width="600px" src="https://github.com/sumeethaldipur/UNO-Card-Game/blob/main/images/uno_home.PNG"/><br>
   <img alt="Connect4" width="600px" src="https://github.com/sumeethaldipur/UNO-Card-Game/blob/main/images/uno_game.PNG"/><br>    
-  <img alt="Connect4" width="600px" src="https://github.com/sumeethaldipur/UNO-Card-Game/main/images/uno_game1.PNG"/>
+  <img alt="Connect4" width="600px" src="https://github.com/sumeethaldipur/UNO-Card-Game/blob/main/images/uno_game1.PNG"/>
 </p>
