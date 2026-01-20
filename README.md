@@ -9,3 +9,5 @@
   <img alt="Connect4" width="600px" src="https://github.com/sumeethaldipur/UNO-Card-Game/blob/main/images/uno_game.PNG"/><br>    
   <img alt="Connect4" width="600px" src="https://github.com/sumeethaldipur/UNO-Card-Game/blob/main/images/uno_game1.PNG"/>
 </p>
+
+### This is a group project by Rutvik Chaudhari, Sumeet Haldipur, and Malhar Bangdiwala for Sardar Patel Institute of Technology
